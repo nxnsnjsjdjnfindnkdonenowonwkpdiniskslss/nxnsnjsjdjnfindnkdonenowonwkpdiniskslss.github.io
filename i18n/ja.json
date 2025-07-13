@@ -259,7 +259,7 @@
             "isPlusAtk": true,
             "price": 8,
             "giftRate": 1,
-            "name": "論破の札"
+            "name": "論破"
         },
         {
             "imageName": "power-halberd",
@@ -376,7 +376,7 @@
             "atk": 12,
             "price": 4,
             "giftRate": 4,
-            "name": "シャーペン・ダイレクト打撃"
+            "name": "シャーペンの殴り"
         },
         {
             "imageName": "real-ghost-sword",
